@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giuliano Maradei</h1>
+<h1 align="center"> I'm Giuliano Maradei</h1>
 <h3 align="center">A Brasilian programmer of many fields</h3>
 
 - 📫 How to reach me **giulianomaradei@gmail,com**
