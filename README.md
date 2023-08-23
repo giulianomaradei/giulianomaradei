@@ -12,7 +12,7 @@
  #### • Git<br />
 
 ## 🎓 Education
-#### Pursuing a degree in Information Systems at Federal University of Uberlândia (UFU).
+#### Pursuing a degree in Computer Science at Federal University of Uberlândia (UFU).
 
 ## 📚 Knowledge
 #### Comprehensive understanding of data structures, algorithms, graph theory, mathematics, and optimization.
