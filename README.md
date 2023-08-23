@@ -4,14 +4,14 @@
 #### Pursuing a degree in Information Systems at Federal University of Uberlândia (UFU).
 
 ## 💻 Expertise
- • Laravel
- • Vue.js
- • Nuxt.js
- • Linux Systems 
- • Docker
- • HTML5 | CSS3
- • Typescript
- • Git
+ • Laravel<br />
+ • Vue.js<br />
+ • Nuxt.js<br />
+ • Linux Systems <br />
+ • Docker<br />
+ • HTML5 | CSS3<br />
+ • Typescript<br />
+ • Git<br />
 
 ## 📚 Knowledge
 #### Comprehensive understanding of data structures, algorithms, graph theory, mathematics, and optimization.
