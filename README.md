@@ -2,14 +2,14 @@
 
 
 ## 💻 FullStack Expertise
- ###• Laravel<br />
- ###• Vue.js<br />
- ###• Nuxt.js<br />
- ###• Linux Systems <br />
- ###• Docker<br />
- ###• HTML5 | CSS3<br />
- ###• Typescript<br />
- ###• Git<br />
+ ### • Laravel<br />
+ ### • Vue.js<br />
+ ### • Nuxt.js<br />
+ ### • Linux Systems <br />
+ ### • Docker<br />
+ ### • HTML5 | CSS3<br />
+ ### • Typescript<br />
+ ### • Git<br />
 
 ## 🎓 Education
 #### Pursuing a degree in Information Systems at Federal University of Uberlândia (UFU).
