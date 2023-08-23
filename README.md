@@ -4,21 +4,19 @@
 #### Pursuing a degree in Information Systems at Federal University of Uberlândia (UFU).
 
 ## 💻 Expertise
-#### Full stack developer with proficiency in Vue.js, Nuxt, and Laravel for backend development.
+ • Laravel
+ • Vue.js
+ • Nuxt.js
+ • Linux Systems 
+ • Docker
+ • HTML5 | CSS3
+ • Typescript
+ • Git
 
 ## 📚 Knowledge
 #### Comprehensive understanding of data structures, algorithms, graph theory, mathematics, and optimization.
 
-## 🏆 Programming Marathons
-#### Applying problem-solving skills using C and C++ in various competitions.
-
 ## 🐧 Linux
 #### Experienced in harnessing the power and flexibility of Linux systems for optimal productivity.
-
-## 🐳 Docker
-#### Utilizing Docker to create seamless and consistent development environments.
-
-## 🔧 Tools
-#### Leveraging Git and Jira for efficient collaboration and version control.
 
 #### If you're looking for a versatile developer to join your team, I'd be thrilled to collaborate and drive innovation! Let's connect and build something amazing together! 😊👨‍💻
