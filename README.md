@@ -3,7 +3,7 @@
 ### About me
 
 #### Software developer with experience in full-stack development primarily focused on the back end. I have extensive knowledge in using the Laravel framework to create APIs and Vue.js for building dynamic and responsive interfaces. I also explore and study tools within the Laravel ecosystem, such as Nuxt, Inertia, Echo, and many others.
-I also have experience in competitive programming, where I developed significant skills in problem identification and resolution using complex algorithms, techniques, and data structures.
+#### I also have experience in competitive programming, where I developed significant skills in problem identification and resolution using complex algorithms, techniques, and data structures.
 
 ### Toolkit
 
