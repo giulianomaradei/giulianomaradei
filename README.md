@@ -6,4 +6,4 @@
 
 ### Toolkit
 
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27594%2Flaravel&psig=AOvVaw0t09aM4_CuMB31SIEccmVp&ust=1700052044704000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiJ0cPBw4IDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27594%2Flaravel&psig=AOvVaw0t09aM4_CuMB31SIEccmVp&ust=1700052044704000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiJ0cPBw4IDFQAAAAAdAAAAABAE)
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,nuxtjs,ts,mysql,linux,php&perline=3)](https://skillicons.dev)
