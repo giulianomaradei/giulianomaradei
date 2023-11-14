@@ -6,4 +6,4 @@
 
 ### Toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,nuxtjs,ts,mysql,linux,php&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,nuxtjs,ts,mysql,linux,php)](https://skillicons.dev)
